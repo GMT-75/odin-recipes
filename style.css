@@ -1,0 +1,42 @@
+/* Landing page */
+
+#heading {
+    text-align: center;
+    font-size: 65px;
+    color: black;
+}
+
+#img1 {
+    height: auto;
+    width: 800px;
+    margin: auto;
+    display: block;
+}
+
+.recipe {
+    color: black;
+    font-size: 22px;
+}
+
+/* recipes */
+
+.heading-lasagna,
+.heading-chicken,
+.heading-cheesecake {
+    text-align: center;
+    font-size: 65px;
+    color: black;
+}
+
+#img2 {
+    height: auto;
+    width: 600px;
+    margin: auto;
+    display: block;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 26px;
+    text-decoration: underline;
+}
